@@ -1,4 +1,4 @@
-### Week 1 and 2: Excel and Statistics
+### Week 1 and 2: Excel and Statistics.
 
 * Excel 
 	- Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1
