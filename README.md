@@ -20,7 +20,7 @@ Following is a schedule to learn data science step by step considering **4 hours
 ### Week 3 and 4: Python
 
 * Python
-        - My Python course that is 5X better than the free playlists: https://codebasics.io/courses/python-for-beginner-and-intermediate-learners 
+   - My Python course that is 5X better than the free playlists: https://codebasics.io/courses/python-for-beginner-and-intermediate-learners 
 	- Codebasics python tutorials (first 16) - https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
 	- Codebasics python HINDI tutorials (first 16)- https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO
 	- Make sure to work on exercises
@@ -90,3 +90,5 @@ If you don't have a strong reason to choose between Power BI and Tableau, I woul
 --------------------------------------    
 * Free book on statistics: http://greenteapress.com/thinkstats/thinkstats.pdf
 * Another good book on statistics (not free) Naked Statistics - Charles Wheelan
+
+![myImage](Data_Science_Roadmap_explain.png)
